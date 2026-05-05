@@ -3,7 +3,7 @@
 An end-to-end agricultural diagnostic pipeline built to accurately classify crop health and generate actionable treatment plans.
 
 ### Tech Stack
-* **Frontend:** [Insert what you used, e.g., Flutter / Next.js]
+* **Frontend:** [Next.js]
 * **Backend:** Python, FastAPI
 * **AI & Machine Learning:** MobileNetV2 (CNN), Gemini API
 * **Hardware/Environment:** Google Colab (T4 GPUs)
